@@ -1,5 +1,5 @@
 <template>
-  <h1>Dashboard Loaded ✅</h1>
+  <h1>Dashboard Loaded </h1>
 </template>
 
 <script lang="ts">
